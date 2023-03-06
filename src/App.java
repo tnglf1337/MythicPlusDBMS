@@ -18,6 +18,5 @@ public class App {
         
         MainFrame mainFrame = new MainFrame(con, user, wow);
         new LoginFrame(user, mainFrame);
-        System.out.println("hiiiiiiiii");
     }
 }
