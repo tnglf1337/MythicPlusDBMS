@@ -1,3 +1,6 @@
+## Use
+You can quickly insert/delete runs into your database. App shows average statistics and prints a table of the last runned dungeons.
+
 ## Getting Started
 
 Setup your own MySQL Community Server. Create your own database and table. Names can be chosen freely.
